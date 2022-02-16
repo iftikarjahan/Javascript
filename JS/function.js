@@ -16,7 +16,7 @@ function add(a,b){
 //This implies that its the most important thing in javascript
 // functions can be returned
 // functions can be passed as parameters and arguments
-
+//
 //Function Expression-> In function expression, we can receive a function in a variable and can invoke it using that variable
 //Syntax:
 // let variable_name=function(){

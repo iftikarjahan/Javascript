@@ -37,3 +37,7 @@ let arr2d=[
 
 console.table(arr2d);
 console.log(arr2d);
+console.log(arr2d[3]);
+
+console.log(arr2d.length);  //no of rows in 2d array
+console.log(arr2d[2].length);   //no of columns in the corresponding array
