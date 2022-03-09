@@ -20,7 +20,7 @@ console.log(person.name);
 console.log(person["name"]);
 
 let captainAmerica={
-    firstName:"Slaman",
+    firstName:"Salman",
     lastName:"Khan",
     friends:["Sarukh Khan","Akshay Kumar","Amir Khan"],
     isAvenger:true,
